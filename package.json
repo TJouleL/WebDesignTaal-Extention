@@ -6,7 +6,7 @@
     "publisher": "TJouleL",
     "repository": {
         "type": "git",
-        "url": "https://github.com/TJouleL/WebDesignTaal-Extention.git"
+        "url": "https://github.com/TJouleL/WebDesignTaal-Extension.git"
     },
     "engines": {
         "vscode": "^1.60.0"
